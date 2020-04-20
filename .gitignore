@@ -1,0 +1,5 @@
+/.idea/
+/target/
+/WebTestSpring.iml
+/.gitignore
+/src/main/resources/banner.txt
